@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 82569fad255c02145974ee64e3945e71
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - completeLevelUI: {fileID: 3515977458527931519, guid: e35da4b600e12af46b8f320b57a38900,
+      type: 3}
+  - endGame: {fileID: 4312028807835206408, guid: c3c27674ed196714288ee36711449797,
+      type: 3}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
