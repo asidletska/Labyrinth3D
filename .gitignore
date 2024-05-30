@@ -75,3 +75,8 @@ Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
 Assets/TextMesh Pro/Sprites/EmojiOne.json
 Packages/packages-lock.json
 Packages/manifest.json
+ProjectSettings/BurstAotSettings_WebGL.json
+ProjectSettings/Packages/com.unity.connect.share/Settings.json
+BuildWEBGL_LAB3D/dependencies.txt
+BuildWEBGL_LAB3D/GUID.txt
+BuildWEBGL_LAB3D/ProjectVersion.txt

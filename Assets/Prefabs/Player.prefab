@@ -148,7 +148,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MovingForward: 119
   MovingBack: 115
-  MovingDirectionForwardBack: {x: 0.3, y: 0, z: 0}
+  MovingDirectionForwardBack: {x: 0.2, y: 0, z: 0}
   MovingRight: 100
   MovingLeft: 97
-  MovingDirectionRightLeft: {x: 0, y: 0, z: 0.3}
+  MovingDirectionRightLeft: {x: 0, y: 0, z: 0.2}
